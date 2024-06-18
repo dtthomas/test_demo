@@ -17,16 +17,3 @@ Some code here
 def myfunction()
 // some comment
 ```
-
-#### Code for a specific language
-
-Some more code with the `py` at the start:
-
-``` py title="bubble_sort.py"; linenums="1"; hl_lines="1"
-import tensorflow as tf
-def watever()
-```
-
-## Icons and emojis
-
-:smile:
